@@ -1,2 +1,2 @@
 # some-playground
-A sinmple git playground
+A simple git playground
